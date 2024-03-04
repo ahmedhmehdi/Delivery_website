@@ -1,0 +1,706 @@
+* {
+
+    margin: 0px;
+    padding: 0px;
+
+
+}
+
+/* Start nav bar */
+
+
+.nav-section1 {
+
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.nav-left {
+
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 60px;
+
+}
+
+
+.buttom-up-left-home {
+
+    margin-left: 35px;
+    text-decoration: none;
+    color: rgb(55, 52, 52);
+    font-size: 20px;
+    border-bottom: 2px solid rgb(115, 0, 255);
+}
+
+
+
+
+.buttom-up-left {
+
+    margin-left: 35px;
+    text-decoration: none;
+    color: rgb(55, 52, 52);
+    font-size: 20px;
+}
+
+.buttom-up-right {
+
+    color: rgb(55, 52, 52);
+    background-color: white;
+    margin-top: 90px;
+    margin-right: 170px;
+    border: 1px solid white;
+    border-radius: 50px;
+    font-size: 20px;
+    padding: 10px;
+    width: 150px;
+    cursor: pointer;
+}
+
+/* End nav bar */
+
+/* Start background-s1-s2  */
+
+.background-s1-s2 {
+
+    background-image: url(blue_bg.png);
+    height: 1030px;
+    width: 1864px;
+    background-repeat: no-repeat;
+    position: relative;
+
+
+}
+
+/* End background-s1-s2  */
+
+/* start section 2 */
+
+.nav-section2 {
+
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.p1-p2-s2 {
+
+    color: gray;
+
+
+}
+
+.p1-s2 {
+
+    font-size: 62px;
+    padding-left: 159px;
+    padding-top: 320px;
+    padding-bottom: 25px;
+
+}
+
+
+
+.p2-s2 {
+    width: 599px;
+    font-size: 30px;
+    padding-left: 159px;
+
+
+}
+
+
+.Deliver-color {
+
+    color: blueviolet;
+
+}
+
+
+
+.pic-landing-bg-s2 {
+
+    width: 900px;
+    position: relative;
+    right: 10px;
+    top: 40px
+}
+
+.clouds1-s2 {
+
+    position: absolute;
+    height: 150px;
+    width: 500px;
+    top: 720px;
+    right: 250px;
+
+
+
+}
+
+.person-red-s2 {
+
+    position: absolute;
+    top: 285px;
+    right: 330px;
+    width: 350px;
+    
+}
+
+.clouds2-s2 {
+
+    position: absolute;
+
+    width: 500px;
+    height: 200px;
+    top: 760px;
+    right: 200px;
+
+}
+
+
+
+
+
+
+
+.end-background-s1-s2-img {
+
+    width: 1500px;
+
+    position: absolute;
+    top: 860px;
+    right: 470px;
+
+}
+
+
+.clouds4-s2 {
+
+    position: absolute;
+    top: 950px;
+    width: 700px;
+    left: 1120px;
+    height: 150px;
+
+
+}
+
+
+
+
+
+
+
+/* Start section 3 */
+
+.pic-background-s3 {
+
+    position: relative;
+    padding-left: 500px;
+    padding-top: 100px;
+
+}
+
+
+/* Start section 3 */
+
+.fast-deliver-pic-und-time-pic {
+
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    
+
+
+}
+
+.fast-deliver-pic {
+
+    position: absolute;
+    left: 360px;
+    bottom: 370px;
+
+}
+
+
+
+
+.fast-deliver-h6 {
+    position: absolute;
+    left: 386px;
+    bottom: 325px;
+    width: 205px;
+    font-size: 25px;
+    color: rgb(96, 96, 96);
+
+
+}
+
+.fast-deliver-p1 {
+
+    position: absolute;
+    left: 340px;
+    bottom: 295px;
+    width: 500px;
+    font-size: 20px;
+    color: rgb(96, 96, 96);
+
+
+}
+
+.fast-deliver-p2 {
+
+    position: absolute;
+    left: 320px;
+    bottom: 265px;
+    width: 500px;
+    font-size: 20px;
+    color: rgb(96, 96, 96);
+
+
+}
+
+
+.time-pic {
+
+    position: absolute;
+    left: 960px;
+    bottom: 180px;
+
+}
+
+
+.time-h4 {
+    position: absolute;
+    left: 1000px;
+    bottom: 140px;
+    width: 216px;
+    font-size: 25px;
+    color: rgb(96, 96, 96);
+
+}
+
+.time-p1 {
+
+    position: absolute;
+    left: 900px;
+    bottom: 110px;
+    width: 550px;
+    font-size: 20px;
+    color: rgb(96, 96, 96);
+
+
+}
+
+.time-p2 {
+
+    position: absolute;
+    left: 940px;
+    bottom: 85px;
+    width: 550px;
+    font-size: 20px;
+    color: rgb(96, 96, 96);
+
+
+}
+
+
+.discounts-pic {
+
+    position: absolute;
+    left: 1375px;
+    bottom: -155px;
+    
+
+}
+
+
+.discounts-h4 {
+    position: absolute;
+    left: 1500px;
+    bottom: -210px;
+    width: 216px;
+    font-size: 25px;
+    color: rgb(96, 96, 96);
+    
+
+}
+
+.discounts-p1 {
+
+    position: absolute;
+    left: 1370px;
+    bottom: -245px;
+    width: 420px;
+    font-size: 20px;
+    color: rgb(96, 96, 96);
+
+
+}
+
+.discounts-p2 {
+
+    position: absolute;
+    left: 1360px;
+    bottom: -270px;
+    width: 430px;
+    font-size: 20px;
+    color: rgb(96, 96, 96);
+
+
+
+
+}
+
+.why_kudzoka-pic {
+
+    position: absolute;
+    left: 255px;
+    bottom: -300px;
+    width: 450px;
+}
+
+
+.why_kudzoka-p2 {
+    position: absolute;
+    left: 370px;
+    bottom: -160px;
+    width: 216px;
+    font-size: 55px;
+    color: white;
+
+}
+
+.why_kudzoka-p1 {
+
+    position: absolute;
+    left: 370px;
+    bottom: -97px;
+    width: 216px;
+    font-size: 25px;
+    font-style: inherit;
+    color: white;
+
+
+}
+
+
+/* End section 3 */
+
+
+/* Start section 4 */
+
+.section-4 {
+
+    display: flex;
+    justify-content: space-around;
+    padding-top: 500px;
+    padding-left: 200px;
+
+
+}
+
+
+.jump-pic {
+
+    position: absolute;
+    top: 2442px;
+    left: 400px;
+
+
+}
+
+
+.fly-pic {
+
+    position: absolute;
+    top: 2275px;
+    left: 735px;
+
+}
+
+
+
+.dollar-pic {
+
+    position: absolute;
+    top: 2470px;
+    right: 120px;
+
+
+}
+
+
+
+/* End section 4 */
+
+
+
+/* Start section 5 */
+
+
+.fly-h4 {
+
+    position: absolute;
+    right: 660px;
+    top: 2740px;
+    width: 300px;
+    font-size: 25px;
+    color: rgb(96, 96, 96);
+
+
+}
+
+.fly-p1 {
+
+    position: absolute;
+    right: 652px;
+    top: 2800px;
+    width: 300px;
+    font-size: 25px;
+    color: rgb(96, 96, 96);
+
+}
+
+.fly-p2 {
+
+    position: absolute;
+    right: 646px;
+    bottom: -1920px;
+    width: 300px;
+    font-size: 24px;
+    color: rgb(96, 96, 96);
+
+}
+
+.fly-p3 {
+
+    position: absolute;
+    right: 596px;
+    top: 2875px;
+    width: 300px;
+    font-size: 25px;
+    color: rgb(96, 96, 96);
+
+}
+
+
+
+/* End section 5 */
+
+
+
+
+/* Start Footer section  */
+
+
+.footer-bachground {
+
+    height: 637px;
+    background: url("Group 1131.png");
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: 700px;
+    display: flex;
+    justify-content: space-between;
+
+
+
+
+}
+
+
+
+.footer-section1 {
+
+
+    position: relative;
+    top: 380px;
+    left: 120px;
+    height: 105px;
+}
+
+.footer-p1 {
+
+    position: absolute;
+    top: 26px;
+    left: 51px;
+    font-size: 12px;
+    color: black;
+    text-decoration: none;
+
+
+}
+
+.footer-p2 {
+
+    position: absolute;
+    top: 26px;
+    left: 216px;
+    font-size: 12px;
+    color: black;
+    text-decoration: none;
+
+
+}
+
+.footer-p3 {
+
+    position: absolute;
+    top: 12px;
+    left: 51px;
+    font-size: 10px;
+    color: black;
+    text-decoration: none;
+
+
+}
+
+
+.footer-p4 {
+
+    position: absolute;
+    top: 11px;
+    left: 216px;
+    font-size: 12px;
+    color: black;
+    text-decoration: none;
+
+
+}
+
+
+.apple-logo {
+
+    position: absolute;
+    top: 8px;
+    left: 15px;
+    font-size: 10px;
+    color: black;
+    text-decoration: none;
+
+
+
+}
+
+
+.play-logo {
+
+
+    position: absolute;
+    top: 11px;
+    left: 181px;
+    font-size: 12px;
+    color: black;
+    text-decoration: none;
+}
+
+
+.footer-button1 {
+
+    background-color: white;
+    margin-bottom: 30px;
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 140px;
+    height: 55px;
+    cursor: pointer;
+
+
+}
+
+.footer-button2 {
+
+    background-color: white;
+    margin-bottom: 30px;
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 140px;
+    height: 55px;
+    cursor: pointer;
+    margin-left: 20px;
+
+}
+
+
+
+.instagram {
+
+    position: absolute;
+
+}
+
+.whatsapp {
+
+    position: absolute;
+    left: 45px;
+
+}
+
+.facebook {
+
+    position: absolute;
+    left: 90px;
+
+}
+
+.buttom-footer-2 {
+
+    position: relative;
+
+
+}
+
+.Home-buttom-footer {
+
+    position: absolute;
+    top: 50px;
+    color: white;
+    text-decoration: none;
+
+}
+
+.Services-buttom-footer {
+
+    position: absolute;
+    top: 50px;
+    left: 80px;
+    color: white;
+    text-decoration: none;
+
+}
+
+.AboutUs-buttom-footer {
+
+    position: absolute;
+    top: 50px;
+    left: 170px;
+    color: white;
+    text-decoration: none;
+
+}
+
+.Help-Center-buttom-footer {
+
+    position: absolute;
+    top: 50px;
+    left: 270px;
+    color: white;
+    text-decoration: none;
+    width: 86px;
+
+}
+
+
+.footer-pic {
+
+    position: absolute;
+    left: 750px;
+    top: -353px;
+}
